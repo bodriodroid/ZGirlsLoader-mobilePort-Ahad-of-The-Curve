@@ -2,8 +2,6 @@
 
 Restores original Skullgirls 2nd Encore content.
 
-## What it restores
-
 AOTC never edits the game's own archives. Everything can be undone.
 
 ## Download
