@@ -3,17 +3,6 @@
 Restores original Skullgirls 2nd Encore content.
 
 ## What it restores
-- Filia story cutscenes
-- Digital Art Compendium
-- Big Band story cutscenes
-- Double story cutscenes
-- Beowulf story cutscenes
-- Parasoul story cutscenes
-- Black Egrets
-- Parasoul's armbands
-- Original combo callouts
-- Eliza cutscenes
-- Mike Z's Soviet voice pack *(optional)*
 
 AOTC never edits the game's own archives. Everything can be undone.
 
