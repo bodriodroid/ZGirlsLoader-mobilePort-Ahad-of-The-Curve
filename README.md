@@ -1,7 +1,5 @@
 # Ahad of the Curve (AOTC)
 
-Restores the original, uncensored content of Skullgirls 2nd Encore.
-
 <img width="1970" height="1996" alt="AOTC-0 18 0-collage" src="https://github.com/user-attachments/assets/8a712b00-d708-457d-a40d-db95e6db5921" />
 
 AOTC never edits the game's own archives, and everything it does can be undone.
